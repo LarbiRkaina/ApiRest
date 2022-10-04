@@ -1,1 +1,1 @@
-Proyecto de API REST de lemoncode MAC Monterrey
+Proyecto de API REST de Lemoncode 
