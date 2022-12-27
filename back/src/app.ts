@@ -1,8 +1,8 @@
 import express from 'express';
-import path from 'path';
+import path from "path";
 import { booksApi } from './books.api';
-import { createRestApiServer} from "./core/servers";
-import { envConstants} from "./core/constants"
+import { createRestApiServer} from "core/servers";
+import { envConstants} from "core/constants"
 
 const restApiServer = createRestApiServer();
 
